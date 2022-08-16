@@ -8,7 +8,7 @@
 - My short term goal: publishing papers containing my current researches
 - My not-too-long term goal: attending a post graduate programme in mathematics
 - My long term goal: becoming a mathematics-based life science researhcer and producing a lots of research papers
-- Academic-related hobbies: reading math subjects, producing codes in Python, working on [Kaggle.com](https://www.kaggle.com/rizalpurnawan)
+- Academic-related hobbies: reading math subjects, producing codes in Python, working on [Kaggle.com](https://www.kaggle.com/rizalpurnawan/code)
 - Non-academic hobbies: playing futsal, playing FIFA, watching movies or TV series
 
 <br>
