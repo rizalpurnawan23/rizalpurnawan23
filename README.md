@@ -7,7 +7,7 @@
 - Occasionally, I love creating graphic designs
 - My short term goal: publishing papers containing my current researches
 - My not-too-long term goal: attending a post graduate programme in mathematics
-- My long term goal: becoming a mathematics-based life science researhcer and producing a lots of research papers
+- My long term goal: becoming a researhcer on mathematics-related fields and producing a lots of research papers
 - Academic-related hobbies: reading math subjects, producing codes in Python, working on [Kaggle.com](https://www.kaggle.com/rizalpurnawan/code)
 - Non-academic hobbies: playing futsal, playing FIFA, watching movies or TV series
 
@@ -32,6 +32,8 @@
 [<img align="left" alt="Matplotlib" height="22px" src="./img/matplotlib.svg" style="padding-right:10px;"/>](https://matplotlib.org/)
 [<img align="left" alt="Plotly" height="22px" src="./img/plotly.svg" style="padding-right:10px;"/>](https://plotly.com/)
 [<img align="left" alt="Seaborn" height="22px" src="./img/seaborn.svg" style="padding-right:10px;"/>](https://seaborn.pydata.org/)
+[<img align="left" alt="TensorFlow" height="22px" src="./img/tensorflow.svg" style="padding-right:10px;"/>](https://www.tensorflow.org/)
+[<img align="left" alt="Keras" height="22px" src="./img/keras.svg" style="padding-right:10px;"/>](https://keras.io/)
 
 
 <!---
