@@ -2,7 +2,8 @@
 
 ## I am an Independent Researcher, A Data Science Enthusiast, A Civil Engineer and a A Self-Taught Mathematician
 
-- I am currently working on a self-conducted research in the field of mathematics and engineering
+- I am currenty working as a civil engineer in PT. PP (Persero) Tbk., a state-owned company of Indonesa
+- I am still working on self-conducted researches in the field of mathematics and engineering
 - I am currently-and-keep learning mathematics subjects by myself, which are mostly pure mathematics (measure theory, topology, functional analysis, algebra, etc)
 - Occasionally, I love creating graphic designs
 - My short term goal: publishing papers containing my current researches
