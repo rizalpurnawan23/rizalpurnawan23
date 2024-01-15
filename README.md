@@ -2,15 +2,15 @@
 
 ## I am an Independent Researcher, A Data Science Enthusiast, A Civil Engineer and a A Self-Taught Mathematician
 
-- I am currenty working as a civil engineer in PT. PP (Persero) Tbk., a state-owned company of Indonesa
+- I am currenty a full time job seeker
 - I am still working on self-conducted researches in the field of mathematics and engineering
 - I am currently-and-keep learning mathematics subjects by myself, which are mostly pure mathematics (measure theory, topology, functional analysis, algebra, etc)
 - Occasionally, I love creating graphic designs
 - My short term goal: publishing papers containing my current researches
 - My not-too-long term goal: attending a post graduate programme in mathematics
-- My long term goal: becoming a researhcer on mathematics-related fields and producing a lots of research papers
+- My long term goal: becoming a full-time researhcer and lecturer on mathematics-related fields and producing a lots of research papers
 - Academic-related hobbies: reading math subjects, producing codes in Python, working on [Kaggle.com](https://www.kaggle.com/rizalpurnawan/code)
-- Non-academic hobbies: playing futsal, playing FIFA, watching movies or TV series
+- Non-academic hobbies: playing futsal, playing video games like FIFA, Assassin's Creed, GTA, watching movies or TV series
 
 <br>
 
