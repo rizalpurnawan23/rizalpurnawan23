@@ -1,15 +1,15 @@
 ### Hi there, I'm Rizal
 
-## I am an Independent Researcher, A Data Science Enthusiast, A Civil Engineer and a A Self-Taught Mathematician
+## I am an Independent Researcher, Data Science Enthusiast, Civil Engineer and a Self-Taught Mathematician
 
-- I am currenty a full time job seeker
-- I am still working on self-conducted researches in the field of mathematics and engineering
-- I am currently-and-keep learning mathematics subjects by myself, which are mostly pure mathematics (measure theory, topology, functional analysis, algebra, etc)
-- Occasionally, I love creating graphic designs
-- My short term goal: publishing papers containing my current researches
-- My not-too-long term goal: attending a post graduate programme in mathematics
-- My long term goal: becoming a full-time researhcer and lecturer on mathematics-related fields and producing a lots of research papers
-- Academic-related hobbies: reading math subjects, producing codes in Python, working on [Kaggle.com](https://www.kaggle.com/rizalpurnawan/code)
+- I am currently seeking a full-time job.
+- I am currently working on self-conducted research in the field of mathematics, engineering, scientific computing and data science.
+- I keep exploring mathematics subjects by myself, which are mostly pure mathematics (measure theory, topology, functional analysis, abstract algebra, etc).
+- Occasionally, I love creating graphic designs.
+- My short term goal: publishing papers containing my current researches.
+- My not-too-long term goal: attending a post graduate programme in mathematics.
+- My long term goal: becoming a full-time researhcer and lecturer on mathematics-related fields and producing a lots of research papers.
+- Academic-related hobbies: exploring math subjects, coding in Python, brain storming with ChatGPT, exploring research ideas, working on data science projects on [Kaggle.com](https://www.kaggle.com/rizalpurnawan/code).
 - Non-academic hobbies: playing futsal, playing video games like FIFA, Assassin's Creed, GTA, watching movies or TV series
 
 <br>
