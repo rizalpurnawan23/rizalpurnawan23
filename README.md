@@ -19,6 +19,7 @@
 [<img align="left" alt="Linkedin" height="22px" src="./img/linkedin-original.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/rizal-purnawan-xcvm23/)
 [<img align="left" alt="Twitter" height="22px" src="./img/twitter.svg" style="padding-right:10px;"/>](https://twitter.com/RizaLP14)
 [<img align="left" alt="Instagram" height="22px" src="./img/instagram.svg" style="padding-right:10px;"/>](https://www.instagram.com/rizalpurnawan23/)
+[<img align="left" alt="ResearchGate" height="22px" src="./img/ResearchGate_icon_SVG.svg" style="padding-right:10px;"/>](https://www.researchgate.net/profile/Rizal-Purnawan)
 
 <br>
 
