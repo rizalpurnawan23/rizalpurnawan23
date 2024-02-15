@@ -2,7 +2,6 @@
 
 ## I am an Independent Researcher, Data Science Enthusiast, Civil Engineer and a Self-Taught Mathematician
 
-- I am currently seeking a full-time job.
 - I am currently working on self-conducted research in the field of mathematics, engineering, scientific computing and data science.
 - I keep exploring mathematics subjects by myself, which are mostly pure mathematics (measure theory, topology, functional analysis, abstract algebra, etc).
 - Occasionally, I love creating graphic designs.
