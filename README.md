@@ -2,12 +2,12 @@
 
 ## I am an Independent Researcher, Data Science Enthusiast, Civil Engineer and a Self-Taught Mathematician
 
-- I am currently working on self-conducted research in the field of mathematics, engineering, scientific computing and data science.
+- I am currently working on self-conducted research in the field of mathematics, engineering, environmental science, scientific computing and data science.
 - I keep exploring mathematics subjects by myself, which are mostly pure mathematics (measure theory, topology, functional analysis, abstract algebra, etc).
 - Occasionally, I love creating graphic designs.
 - My short term goal: publishing papers containing my current researches.
 - My not-too-long term goal: attending a post graduate programme in mathematics.
-- My long term goal: becoming a full-time researhcer and lecturer on mathematics-related fields and producing a lots of research papers.
+- My long term goal: becoming a full-time researhcer and lecturer on mathematics-related fields and producing a lots of high quality research papers.
 - Academic-related hobbies: exploring math subjects, coding in Python, brain storming with ChatGPT, exploring research ideas, working on data science projects on [Kaggle.com](https://www.kaggle.com/rizalpurnawan/code).
 - Non-academic hobbies: playing futsal, playing video games like FIFA, Assassin's Creed, GTA, watching movies or TV series
 
@@ -17,7 +17,9 @@
 [<img align="left" alt="Kaggle" height="22px" src="./img/kaggle-icon.svg" style="padding-right:10px;"/>](https://www.kaggle.com/rizalpurnawan)
 [<img align="left" alt="Linkedin" height="22px" src="./img/linkedin-original.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/rizal-purnawan-xcvm23/)
 [<img align="left" alt="Twitter" height="22px" src="./img/twitter.svg" style="padding-right:10px;"/>](https://twitter.com/RizaLP14)
+<!---
 [<img align="left" alt="Instagram" height="22px" src="./img/instagram.svg" style="padding-right:10px;"/>](https://www.instagram.com/rizalpurnawan23/)
+--->
 [<img align="left" alt="ResearchGate" height="22px" src="./img/ResearchGate_icon_SVG.svg" style="padding-right:10px;"/>](https://www.researchgate.net/profile/Rizal-Purnawan)
 
 <br>
